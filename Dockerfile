@@ -1,4 +1,4 @@
-FROM tutum/apache-php:latest
+FROM centurylink/apache-php:latest
 MAINTAINER Borja Burgos <borja@tutum.co>, Feng Honglin <hfeng@tutum.co>
 
 ENV WORDPRESS_VER 4.1.1
