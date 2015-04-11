@@ -1,5 +1,5 @@
 FROM centurylink/apache-php:latest
-MAINTAINER Borja Burgos <borja@tutum.co>, Feng Honglin <hfeng@tutum.co>
+MAINTAINER Michael Sheedy git@michaelsheedy.com
 
 ENV WORDPRESS_VER 4.1.1
 WORKDIR /
